@@ -1,1 +1,0 @@
-scp chandler@192.3.165.78:/home/chandler/openwrt/.config .
